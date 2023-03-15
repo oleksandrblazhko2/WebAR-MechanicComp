@@ -1,0 +1,80 @@
+Certificate:
+    Data1111:
+        Version: 3 (0x2)
+        Serial Number:
+            55:85:17:20:14:5d:bf:9b:cc:63:67:d2:a4:f8:6f:3d:87:c6:ec:79
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = UA, L = Odessa, O = OPU, OU = Department_IS, CN = blazhko.op.edu.ua
+        Validity
+            Not Before: Dec 11 18:57:56 2022 GMT
+            Not After : Dec 11 18:57:56 2023 GMT
+        Subject: C = UA, L = Odessa, O = OPU, OU = Department_IS, CN = blazhko.op.edu.ua
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:95:d2:d9:26:f1:bf:67:11:9d:80:1a:2d:41:af:
+                    a4:ff:32:fb:08:f5:79:de:51:8a:8d:e2:21:71:2e:
+                    5e:dc:de:5c:36:90:45:b9:a7:26:c7:13:fb:5f:c8:
+                    cf:cd:13:8b:82:24:2c:1b:b6:12:b7:c9:ec:48:95:
+                    77:da:16:60:01:07:9c:a0:e3:01:91:92:76:69:1a:
+                    67:58:f3:c5:ae:c5:7e:c8:6e:42:e7:13:d5:98:66:
+                    7b:4a:1d:77:2c:2e:f8:a1:cc:b0:df:13:63:7b:d6:
+                    aa:79:88:7a:c6:57:55:39:30:ce:60:f6:cd:5a:ab:
+                    0c:3d:03:07:99:8b:f8:9a:9e:84:bd:58:eb:7e:b5:
+                    78:c0:a1:cd:00:f0:24:38:a2:cd:12:86:ac:8a:69:
+                    a6:ce:db:a0:7c:81:a7:3b:67:64:17:a0:28:00:a2:
+                    f2:aa:24:64:75:22:46:d1:1b:0a:18:6d:45:93:fa:
+                    45:b0:ab:22:a4:3f:9a:10:e3:67:fd:e4:b4:c4:a2:
+                    ae:9a:8c:01:10:5a:74:82:93:50:44:b1:61:32:ec:
+                    dd:f6:02:a5:3b:24:7b:26:8b:6f:59:27:3b:22:13:
+                    a5:e0:a4:91:c3:3b:40:5a:76:5b:ad:04:ae:51:70:
+                    ee:3c:c3:ff:f5:54:40:84:53:66:30:db:34:c3:9b:
+                    2d:4d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                D7:34:B3:E3:99:8F:2A:3B:47:CE:56:3B:A4:5B:4B:2B:76:2E:96:84
+            X509v3 Authority Key Identifier: 
+                D7:34:B3:E3:99:8F:2A:3B:47:CE:56:3B:A4:5B:4B:2B:76:2E:96:84
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        5f:df:84:02:72:97:65:3d:41:26:3b:38:2c:0f:50:ad:f5:d1:
+        69:99:a8:3a:89:9d:8e:d7:24:33:4c:37:0c:2a:2b:ba:57:73:
+        9c:65:bc:e5:8f:88:b4:a7:ee:2c:56:97:cd:25:85:9c:fa:49:
+        e1:61:a1:ca:3d:5c:37:0d:1b:9f:66:52:8a:04:03:dd:9c:56:
+        75:8b:c7:52:86:ca:ea:f6:bc:54:59:3d:c3:d2:5a:bf:d8:2a:
+        62:6c:d4:22:b7:c8:ee:e5:0b:fd:95:dc:62:78:5a:f5:ee:a2:
+        54:c9:6d:65:aa:b8:38:99:ae:7d:86:5f:6b:4c:fe:ed:ac:c6:
+        2f:f2:76:af:20:79:0a:ba:59:0f:6c:3f:8e:fe:fa:2b:72:de:
+        94:4b:cc:c3:06:f6:40:c2:b2:ff:ba:f5:ba:7e:c8:5c:28:83:
+        d2:62:be:99:15:e0:ef:b2:f3:43:ff:5b:ae:b1:01:12:c1:1e:
+        64:2b:6a:1c:59:b2:e4:72:d5:33:25:0e:1a:e3:5f:d7:7d:dd:
+        cb:5f:d8:b3:35:f5:be:05:2a:5e:3c:e4:ef:ac:e3:db:66:3a:
+        93:04:ae:5a:28:19:ed:c2:c5:9b:b4:a2:d4:d3:c1:6c:b4:18:
+        19:8a:5e:20:c4:42:70:bd:d6:87:d8:ec:60:4e:71:13:5d:40:
+        4e:1c:c4:a2
+-----BEGIN CERTIFICATE-----
+MIIDoTCCAomgAwIBAgIUVYUXIBRdv5vMY2fSpPhvPYfG7HkwDQYJKoZIhvcNAQEL
+BQAwYDELMAkGA1UEBhMCVUExDzANBgNVBAcMBk9kZXNzYTEMMAoGA1UECgwDT1BV
+MRYwFAYDVQQLDA1EZXBhcnRtZW50X0lTMRowGAYDVQQDDBFibGF6aGtvLm9wLmVk
+dS51YTAeFw0yMjEyMTExODU3NTZaFw0yMzEyMTExODU3NTZaMGAxCzAJBgNVBAYT
+AlVBMQ8wDQYDVQQHDAZPZGVzc2ExDDAKBgNVBAoMA09QVTEWMBQGA1UECwwNRGVw
+YXJ0bWVudF9JUzEaMBgGA1UEAwwRYmxhemhrby5vcC5lZHUudWEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCV0tkm8b9nEZ2AGi1Br6T/MvsI9XneUYqN
+4iFxLl7c3lw2kEW5pybHE/tfyM/NE4uCJCwbthK3yexIlXfaFmABB5yg4wGRknZp
+GmdY88WuxX7IbkLnE9WYZntKHXcsLvihzLDfE2N71qp5iHrGV1U5MM5g9s1aqww9
+AweZi/ianoS9WOt+tXjAoc0A8CQ4os0ShqyKaabO26B8gac7Z2QXoCgAovKqJGR1
+IkbRGwoYbUWT+kWwqyKkP5oQ42f95LTEoq6ajAEQWnSCk1BEsWEy7N32AqU7JHsm
+i29ZJzsiE6XgpJHDO0BadlutBK5RcO48w//1VECEU2Yw2zTDmy1NAgMBAAGjUzBR
+MB0GA1UdDgQWBBTXNLPjmY8qO0fOVjukW0srdi6WhDAfBgNVHSMEGDAWgBTXNLPj
+mY8qO0fOVjukW0srdi6WhDAPBgNVHRMBAf8EBTADAQH/MA0GCSqGSIb3DQEBCwUA
+A4IBAQBf34QCcpdlPUEmOzgsD1Ct9dFpmag6iZ2O1yQzTDcMKiu6V3OcZbzlj4i0
+p+4sVpfNJYWc+knhYaHKPVw3DRufZlKKBAPdnFZ1i8dShsrq9rxUWT3D0lq/2Cpi
+bNQit8ju5Qv9ldxieFr17qJUyW1lqrg4ma59hl9rTP7trMYv8navIHkKulkPbD+O
+/vorct6US8zDBvZAwrL/uvW6fshcKIPSYr6ZFeDvsvND/1uusQESwR5kK2ocWbLk
+ctUzJQ4a41/Xfd3LX9izNfW+BSpePOTvrOPbZjqTBK5aKBntwsWbtKLU08FstBgZ
+il4gxEJwvdaH2OxgTnETXUBOHMSi
+-----END CERTIFICATE-----
